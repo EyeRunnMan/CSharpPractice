@@ -1,0 +1,15 @@
+/workspaces/CsharpPractice/DateTime/bin/Debug/net8.0/DateTime
+/workspaces/CsharpPractice/DateTime/bin/Debug/net8.0/DateTime.deps.json
+/workspaces/CsharpPractice/DateTime/bin/Debug/net8.0/DateTime.runtimeconfig.json
+/workspaces/CsharpPractice/DateTime/bin/Debug/net8.0/DateTime.dll
+/workspaces/CsharpPractice/DateTime/bin/Debug/net8.0/DateTime.pdb
+/workspaces/CsharpPractice/DateTime/obj/Debug/net8.0/DateTime.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CsharpPractice/DateTime/obj/Debug/net8.0/DateTime.AssemblyInfoInputs.cache
+/workspaces/CsharpPractice/DateTime/obj/Debug/net8.0/DateTime.AssemblyInfo.cs
+/workspaces/CsharpPractice/DateTime/obj/Debug/net8.0/DateTime.csproj.CoreCompileInputs.cache
+/workspaces/CsharpPractice/DateTime/obj/Debug/net8.0/DateTime.sourcelink.json
+/workspaces/CsharpPractice/DateTime/obj/Debug/net8.0/DateTime.dll
+/workspaces/CsharpPractice/DateTime/obj/Debug/net8.0/refint/DateTime.dll
+/workspaces/CsharpPractice/DateTime/obj/Debug/net8.0/DateTime.pdb
+/workspaces/CsharpPractice/DateTime/obj/Debug/net8.0/DateTime.genruntimeconfig.cache
+/workspaces/CsharpPractice/DateTime/obj/Debug/net8.0/ref/DateTime.dll
