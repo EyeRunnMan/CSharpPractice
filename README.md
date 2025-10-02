@@ -1,7 +1,7 @@
 # CsharpPractice
 a csharp practice code space
 
-View this project at: www.karanb.dev/CSharpPractice
+View this project at: https://github.com/EyeRunnMan/CSharpPractice
 
 ## Projects
 - [Date Time](https://github.com/EyeRunnMan/CsharpPractice/blob/main/DateTime/Program.cs)
