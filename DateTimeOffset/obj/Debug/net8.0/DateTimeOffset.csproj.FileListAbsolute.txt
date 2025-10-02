@@ -1,0 +1,15 @@
+/workspaces/CsharpPractice/DateTimeOffset/bin/Debug/net8.0/DateTimeOffset
+/workspaces/CsharpPractice/DateTimeOffset/bin/Debug/net8.0/DateTimeOffset.deps.json
+/workspaces/CsharpPractice/DateTimeOffset/bin/Debug/net8.0/DateTimeOffset.runtimeconfig.json
+/workspaces/CsharpPractice/DateTimeOffset/bin/Debug/net8.0/DateTimeOffset.dll
+/workspaces/CsharpPractice/DateTimeOffset/bin/Debug/net8.0/DateTimeOffset.pdb
+/workspaces/CsharpPractice/DateTimeOffset/obj/Debug/net8.0/DateTimeOffset.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CsharpPractice/DateTimeOffset/obj/Debug/net8.0/DateTimeOffset.AssemblyInfoInputs.cache
+/workspaces/CsharpPractice/DateTimeOffset/obj/Debug/net8.0/DateTimeOffset.AssemblyInfo.cs
+/workspaces/CsharpPractice/DateTimeOffset/obj/Debug/net8.0/DateTimeOffset.csproj.CoreCompileInputs.cache
+/workspaces/CsharpPractice/DateTimeOffset/obj/Debug/net8.0/DateTimeOffset.sourcelink.json
+/workspaces/CsharpPractice/DateTimeOffset/obj/Debug/net8.0/DateTimeOffset.dll
+/workspaces/CsharpPractice/DateTimeOffset/obj/Debug/net8.0/refint/DateTimeOffset.dll
+/workspaces/CsharpPractice/DateTimeOffset/obj/Debug/net8.0/DateTimeOffset.pdb
+/workspaces/CsharpPractice/DateTimeOffset/obj/Debug/net8.0/DateTimeOffset.genruntimeconfig.cache
+/workspaces/CsharpPractice/DateTimeOffset/obj/Debug/net8.0/ref/DateTimeOffset.dll
