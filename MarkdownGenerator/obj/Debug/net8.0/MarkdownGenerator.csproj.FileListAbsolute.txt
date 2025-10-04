@@ -1,0 +1,15 @@
+/workspaces/CsharpPractice/MarkdownGenerator/bin/Debug/net8.0/MarkdownGenerator
+/workspaces/CsharpPractice/MarkdownGenerator/bin/Debug/net8.0/MarkdownGenerator.deps.json
+/workspaces/CsharpPractice/MarkdownGenerator/bin/Debug/net8.0/MarkdownGenerator.runtimeconfig.json
+/workspaces/CsharpPractice/MarkdownGenerator/bin/Debug/net8.0/MarkdownGenerator.dll
+/workspaces/CsharpPractice/MarkdownGenerator/bin/Debug/net8.0/MarkdownGenerator.pdb
+/workspaces/CsharpPractice/MarkdownGenerator/obj/Debug/net8.0/MarkdownGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CsharpPractice/MarkdownGenerator/obj/Debug/net8.0/MarkdownGenerator.AssemblyInfoInputs.cache
+/workspaces/CsharpPractice/MarkdownGenerator/obj/Debug/net8.0/MarkdownGenerator.AssemblyInfo.cs
+/workspaces/CsharpPractice/MarkdownGenerator/obj/Debug/net8.0/MarkdownGenerator.csproj.CoreCompileInputs.cache
+/workspaces/CsharpPractice/MarkdownGenerator/obj/Debug/net8.0/MarkdownGenerator.sourcelink.json
+/workspaces/CsharpPractice/MarkdownGenerator/obj/Debug/net8.0/MarkdownGenerator.dll
+/workspaces/CsharpPractice/MarkdownGenerator/obj/Debug/net8.0/refint/MarkdownGenerator.dll
+/workspaces/CsharpPractice/MarkdownGenerator/obj/Debug/net8.0/MarkdownGenerator.pdb
+/workspaces/CsharpPractice/MarkdownGenerator/obj/Debug/net8.0/MarkdownGenerator.genruntimeconfig.cache
+/workspaces/CsharpPractice/MarkdownGenerator/obj/Debug/net8.0/ref/MarkdownGenerator.dll
