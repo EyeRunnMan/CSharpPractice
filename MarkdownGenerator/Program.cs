@@ -10,6 +10,7 @@ Console.WriteLine($"Scanning projects in: {projectRoot}");
 
 var projectDirs = Directory.GetDirectories(projectRoot)
     .Where(dir => File.Exists(Path.Combine(dir, "Program.cs")))
+    .Where(dir => Path.GetFileName(dir) != "MarkdownGenerator")
     .ToList();
 
 var generatedLinks = new List<string>();

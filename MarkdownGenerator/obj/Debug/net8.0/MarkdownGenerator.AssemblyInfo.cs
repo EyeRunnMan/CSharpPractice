@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MarkdownGenerator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0598deffa0313249655dee776fa5a2a1a6dd5fa4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e21da60b60af0749f9d8af3c194f54cd9207e1bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("MarkdownGenerator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MarkdownGenerator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
